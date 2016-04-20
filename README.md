@@ -1,6 +1,6 @@
 TIL
 ====
 
-Things I've learned
+Things I've learned.
 
-##Categories
+###Categories
