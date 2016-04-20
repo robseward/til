@@ -16,5 +16,5 @@ extension Foo {
 class Bar: Foo {
 }
 
-Bar().doSomething()
+Bar().doSomething()  // "Hello!"
 ```
