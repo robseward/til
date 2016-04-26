@@ -1,4 +1,4 @@
-`inout` variables have a shadow copy created of them that is passed back to the original
+`inout` variables have a shadow copy created that is passed back to the original
 ======
 
 If you pass an `inout` variable into a function, then reference it in a closure, the closure creates a copy of it and then passes it back to the original when the function returns. In the following case this happens before the closure is executed, so the original is not modified when the closure is executed.
