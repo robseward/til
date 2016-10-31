@@ -15,3 +15,4 @@ Things I've learned.
 ### Swift:
 - [Mixins](Swift/mixins.md)
 - [inout variables and shadow copies](Swift/inout_variables_functions_and_closures.md)
+- [Measure compile time](Swift/measure_compile_time.md)
