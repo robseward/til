@@ -19,3 +19,6 @@ Things I've learned.
 ### Xcode
 - [Measure compile time](Xcode/measure_compile_time.md)
 - [Enable autocomplete in tests](Xcode/enable_autocomplete_in_tests.md)
+
+### Bash
+- [Sort files by lines of code](Bash/sort_files_by_lines_of_code.md)
