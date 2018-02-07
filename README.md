@@ -3,7 +3,7 @@ TIL
 
 Things I've learned.
 
-###Categories
+### Categories
 
 * [Rails](#rails)
 * [Swift](#swift)
